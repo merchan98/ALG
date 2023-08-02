@@ -1,0 +1,12 @@
+
+El problema es el AGM visto en teoría. Se implementa Kruskal. 
+
+El algoritmo puede implementarse en un único fichero y en muchas menos líneas.
+
+Se ha implementado así para separar bien qué es el problema, qué es una solución,
+y qué es el algoritmo, que vean uso de TDAs, clases y objetos, que nunca viene mal.
+
+Para los alumnos: Hay que decirles que no hace falta que usen clases en sus soluciones,
+que no se va a valorar. Que lo que importa es el algoritmo y, si es en menos líneas, mejor.
+
+ESTA SOLUCION ES SOLO POR TENER UNA MEJOR MODULARIZACION Y ABSTRACCION DE DATOS.
